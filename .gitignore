@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+# Ignore model files (recommended)
+triage_bert_model/
+triage_bert_tokenizer/

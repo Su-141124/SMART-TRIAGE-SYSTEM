@@ -1,0 +1,6 @@
+pandas==2.3.3
+torch==2.8.0
+scikit-learn==1.6.1
+transformers==4.57.5
+tqdm==4.67.1
+Flask==3.1.2 
